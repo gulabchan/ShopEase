@@ -1,3 +1,11 @@
+
+Flipkart-Project
+This is a flipkart like e-commerce website.
+
+It uses all the MERN (Mongodb, Express, React, Node) stack technologies to make it an actually functioning site like the real flipkart site.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
